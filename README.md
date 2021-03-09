@@ -6,7 +6,7 @@ The example program reads the analog light signal value from the ```AO``` pin on
 * None
 
 ## Wiring diagram
-![](./wiring_diagram.jpg)
+![](./wiring_diagram_bb.png)
 
 ## Additional information
   For more information about the Whadda WPSE352 photosensitive sensor module, check the manual available at [whadda.com](https://whadda.com)
