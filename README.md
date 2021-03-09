@@ -13,9 +13,13 @@ The example program reads the analog light signal value from the ```AO``` pin on
 
 ## Acknowledgments
 Based on Arduino AnalogInOutSerial code
+
 This example code is in the public domain.
+
  created 29 Dec. 2008
+ 
   modified 9 Apr 2012
+ 
   by Tom Igoe
 
   URL: http://www.arduino.cc/en/Tutorial/AnalogInOutSerial
